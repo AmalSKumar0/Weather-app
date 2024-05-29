@@ -6,6 +6,9 @@ body{
   margin: 0;
   font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
+img {
+    pointer-events: none;
+}
 .container{
   width: 90%;
   max-width: 470px;
